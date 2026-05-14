@@ -54,43 +54,41 @@ current_focus:
 <div align="center">
 
 **`☁️  /cloud-infra/`**
-
-![AWS](https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazon-aws&logoColor=000000)
-![GCP](https://img.shields.io/badge/GCP-FF6600?style=for-the-badge&logo=google-cloud&logoColor=000000)
-![Azure](https://img.shields.io/badge/Azure-FFA500?style=for-the-badge&logo=microsoftazure&logoColor=000000)
-![Terraform](https://img.shields.io/badge/Terraform-FF8C00?style=for-the-badge&logo=terraform&logoColor=000000)
-![Pulumi](https://img.shields.io/badge/Pulumi-FF6600?style=for-the-badge&logo=pulumi&logoColor=000000)
-![Ansible](https://img.shields.io/badge/Ansible-FFA500?style=for-the-badge&logo=ansible&logoColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **`🐳  /containers/`**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FF8C00?style=for-the-badge&logo=kubernetes&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-FF6600?style=for-the-badge&logo=docker&logoColor=000000)
-![Helm](https://img.shields.io/badge/Helm-FFA500?style=for-the-badge&logo=helm&logoColor=000000)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FF8C00?style=for-the-badge&logo=argo&logoColor=000000)
-![Istio](https://img.shields.io/badge/Istio-FF6600?style=for-the-badge&logo=istio&logoColor=000000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 
 **`⚙️  /ci-cd/`**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF8C00?style=for-the-badge&logo=githubactions&logoColor=000000)
-![Jenkins](https://img.shields.io/badge/Jenkins-FFA500?style=for-the-badge&logo=jenkins&logoColor=000000)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FF6600?style=for-the-badge&logo=gitlab&logoColor=000000)
-![Tekton](https://img.shields.io/badge/Tekton-FF8C00?style=for-the-badge&logo=tekton&logoColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)
 
 **`📡  /observability/`**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-FF6600?style=for-the-badge&logo=Prometheus&logoColor=000000)
-![Grafana](https://img.shields.io/badge/Grafana-FF8C00?style=for-the-badge&logo=grafana&logoColor=000000)
-![Datadog](https://img.shields.io/badge/Datadog-FFA500?style=for-the-badge&logo=datadog&logoColor=000000)
-![Loki](https://img.shields.io/badge/Loki-FF6600?style=for-the-badge&logo=grafana&logoColor=000000)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FF8C00?style=for-the-badge&logo=opentelemetry&logoColor=000000)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **`💻  /languages/`**
 
-![Python](https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=000000)
-![Go](https://img.shields.io/badge/Go-FF6600?style=for-the-badge&logo=go&logoColor=000000)
-![Bash](https://img.shields.io/badge/Bash-FFA500?style=for-the-badge&logo=gnu-bash&logoColor=000000)
-![YAML](https://img.shields.io/badge/YAML-FF8C00?style=for-the-badge&logo=yaml&logoColor=000000)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
