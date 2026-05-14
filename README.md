@@ -28,7 +28,7 @@
 # │            SYSTEM PROFILE  ::  ACTIVE                │
 # └──────────────────────────────────────────────────────┘
 
-name        : "Your Name"
+name        : "Swami Das"
 role        : "DevOps / Platform Engineer"
 location    : "Bengaluru, India 🇮🇳"
 uptime      : "99.99%"
@@ -94,29 +94,7 @@ current_focus:
 
 </div>
 
----
 
-## `$ cat projects/README`
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  PROJECT                         │  DESCRIPTION              │  STATUS   │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🏗️  k8s-platform-bootstrap      │  GitOps-ready K8s cluster │  ✅ LIVE  │
-│     terraform · argocd · prom    │  with full obs stack       │           │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🔁  zero-downtime-deploy        │  Blue-green + canary with  │  ✅ LIVE  │
-│     k8s · github-actions · go    │  auto rollback on metrics  │           │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🔐  vault-secrets-operator      │  Custom K8s operator that  │  🔶 WIP  │
-│     go · vault · helm            │  syncs secrets at runtime  │           │
-├──────────────────────────────────────────────────────────────────────────┤
-│  📡  infra-cost-radar            │  Slack alerts for cloud    │  ✅ LIVE  │
-│     python · aws · lambda        │  spend anomalies           │           │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-> 🔗 Replace project names with links to your actual repos
 
 ---
 
