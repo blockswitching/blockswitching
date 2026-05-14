@@ -92,57 +92,5 @@ current_focus:
 ![Bash](https://img.shields.io/badge/Bash-FFA500?style=for-the-badge&logo=gnu-bash&logoColor=000000)
 ![YAML](https://img.shields.io/badge/YAML-FF8C00?style=for-the-badge&logo=yaml&logoColor=000000)
 
-</div>
-
-
-
----
-
-## `$ gh stats --user yourusername`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=1a0a00&title_color=FF8C00&icon_color=FFA500&text_color=FF6600&ring_color=FF8C00" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=1a0a00&title_color=FF8C00&text_color=FF6600" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=1a0a00&ring=FF8C00&fire=FF6600&currStreakLabel=FFA500&sideLabels=FF8C00&dates=FF6600&stroke=FF8C00"/>
-
-</div>
-
----
-
-## `$ git log --open-source --author=you`
-
-```diff
-
-# Philosophy: The ecosystem gave us everything.
-# Give back, or you're just a consumer.
-```
-
----
-
-## `$ ping me`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-FF6600?style=for-the-badge&logo=twitter&logoColor=000000)](https://twitter.com/yourusername)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=000000)](https://yourblog.hashnode.dev)
-[![Email](https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:you@email.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=FF8C00&style=for-the-badge&label=PROFILE+HITS)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "Don't touch prod manually."                           ║
-║                  — Me, every standup.                    ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 </div>
